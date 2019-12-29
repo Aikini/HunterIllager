@@ -1,5 +1,11 @@
 {
-  "item.hunterillager.spawnegg_hunterillager": "邪猎者刷怪蛋",
-  "entity.hunterillager.hunterillager": "邪猎者",
-  "hunterillager:subtitles.hunterillager.laugh": "邪猎者笑声"
+  "item.hunterillager.spawnegg_hunterillager": "生成 灾厄猎人",
+  "item.hunterillager.quivers": "箭袋",
+  "item.hunterillager.boomerang": "回力镖",
+  "container.hunterillager.quivers": "箭袋",
+
+  "entity.hunterillager.hunterillager": "灾厄猎人",
+  "hunterillager:subtitles.hunterillager.laugh": "灾厄猎人忍不住笑出了声",
+  "death.attack.hunterillager.boomerang": "%1$s 被回力镖砸死了",
+  "death.attack.hunterillager.boomerang.player": "%1$s 被 %2$s 击杀了"
 }
